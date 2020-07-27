@@ -1,4 +1,4 @@
-## This repository houses datasets created by DSL staff for use in workshops and examples.
+## This repository houses datasets for use in collaborations with the Goodman Data Analytics Student Association
 
 
 
