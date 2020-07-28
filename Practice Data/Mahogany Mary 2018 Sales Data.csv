@@ -1,7 +1,7 @@
 Order Number,Order Date,Country,Product,Sale Total
 56897,1/4/2018,France,Bookshelf,$39.00
 56898,1/6/2018,Germany,Chair,$114.00
-56899,1/26/2018,France,Chair,"$111,116.00"
+56899,1/26/2018,France,Chair,$116.00
 56900,2/5/2018,France,Bookshelf,$32.00
 56901,2/8/2018,United States of America,Bedframe,"$1,269.00"
 56902,2/11/2018,France,Bedframe,"$1,389.00"
