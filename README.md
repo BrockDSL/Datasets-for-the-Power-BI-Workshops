@@ -1,4 +1,4 @@
-## This repository houses datasets for use in collaborations with the Goodman Data Analytics Student Association
+## This repository houses datasets for use in Power Bi Workshops
 
 
 
